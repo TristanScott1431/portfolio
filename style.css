@@ -65,3 +65,9 @@ float: right;
 .basketball-pic{width: 200px; height: 150px; float: right; position: relative; bottom: 50px;}
 
 .basketball-header{text-align: center;}
+
+.portfolio-header{border-bottom: solid 1px;}
+
+.project2-section{border-top: solid 1px; margin-top: 20px;}
+
+.project3-section{border-top: solid 1px; margin-top: 20px;}
