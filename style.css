@@ -46,7 +46,7 @@ bottom: 0;
 width: 100%;}
 
 .fishing-header{font-size: 30px;
-text-align: center;}
+text-align: center; padding-top: 15px;}
 
 .fishing-pic{width: 200px; height: 150px;
 float: right;
@@ -66,8 +66,14 @@ float: right;
 
 .basketball-header{text-align: center;}
 
-.portfolio-header{border-bottom: solid 1px;}
+.portfolio-header{border-bottom: solid 1px; font-size: 30px;}
 
 .project2-section{border-top: solid 1px; margin-top: 20px;}
 
 .project3-section{border-top: solid 1px; margin-top: 20px;}
+
+em{float: right; text-align: center; padding-top: 50px;}
+
+.p1{text-align: center; padding-top: 90px;}
+
+.h1{text-align: center;}
